@@ -1,0 +1,14 @@
+.body {
+  background: #e2e2e2;
+  max-width: width 100vw;
+  max-height: 100vh;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+.header {
+  width: 100vw;
+  height: 50px;
+  background: #4444;
+}
